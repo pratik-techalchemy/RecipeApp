@@ -1,4 +1,4 @@
-# ClownMeals
+# RecipeApp
 
 Flutter representation of a generic Recipe app UI. Contains a number of meals along with their description and recipe. 
 Includes features like marking meals favourite, categorizing meals, filtering meal items according to user's requirements. 
